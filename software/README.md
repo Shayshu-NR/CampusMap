@@ -1,4 +1,4 @@
-# CampusMap Software
+# CampusMap Node Software
 
 Includes all libraries and code for the CampusMap Node hardware.
 
