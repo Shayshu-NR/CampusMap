@@ -6,4 +6,4 @@ BOM downloaded from [DigiKey](https://www.digikey.ca). 3D model files are made u
 
 ## Documentation
 
-Documentation for BOM parts can be found on the DigiKey page under "Datasheet".
+Documentation for BOM parts can be found on each part's DigiKey page under "Datasheet".
