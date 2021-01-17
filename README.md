@@ -36,6 +36,14 @@ Sensors and Power:
 - Air quality sensor
 - etc. sensors
 
+## IOT implementation ideas
+- Checking the busyness of a study area
+- Predict when a study space will be empty and prompt to add an event to your calendar 
+- Create a web API for data around campus
+- Show our data collected on the TVs in the pit
+- Packet sniffer
+- 
+
 ## CampusMap.ca
 
 The webapp that allows users to view a 'heat map' of various values.
